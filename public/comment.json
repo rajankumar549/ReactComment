@@ -1,0 +1,26 @@
+[
+    {   "comment_id":1,
+        "comment_text" : "Lorem ipsum dolor sit amet, ",
+        "user_name" : "rajankumar549",
+        "posted_on" : "24-09-2018 02:50 PM",
+        "user_thumb" : "https://images.vexels.com/media/users/3/145908/preview2/52eabf633ca6414e60a7677b0b917d92-male-avatar-maker.jpg"
+    },
+    {   "comment_id":2,
+        "comment_text" : "Lorem ipsum dolor sit amet Iusto temporibus iste nostrum dolorem natus recusandae incidunt voluptatum. Eligendi voluptatum ducimus architecto tempore, quaerat explicabo veniam fuga corporis totam reprehenderit quasi sapiente modi tempora at perspiciatis mollitia, dolores voluptate. Cumque, corrupti?",
+        "user_name" : "mohit7d55",
+        "posted_on" : "24-09-2018 02:50 PM",
+        "user_thumb" : "https://t4.ftcdn.net/jpg/01/13/92/79/500_F_113927934_sCoaIlA5zeK7yEskjh1tG7GAqseplkAT.jpg"
+    },
+    {   "comment_id":3,
+        "comment_text" : "Consectetur adipisicing elitorem natus recusandae incidunt voluptatum. Eligendi voluptatum ducimus architecto tempore, quaerat explicabo veniam fuga corporis totam reprehenderit quasi sapiente modi tempora at perspiciatis mollitia, dolores voluptate. Cumque, corrupti?",
+        "user_name" : "sudo",
+        "posted_on" : "24-09-2018 02:50 PM",
+        "user_thumb" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHMZ61_YBq_vUIGkG7MHRA9cSztvgRAMIdGu-i9b0RFb4zLDa_g"
+    },
+    {   "comment_id":4,
+        "comment_text" : "Eligendi voluptatum ducimus architecto tempore, quaerat explicabo veniam fuga corporis totam reprehenderit quasi sapiente modi tempora at perspiciatis mollitia, dolores voluptate. Cumque, corrupti?",
+        "user_name" : "test",
+        "posted_on" : "24-09-2018 02:50 PM",
+        "user_thumb" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClRr4TNIsq8y7g1rjvWemctvK7JocJ88RcnuANZUmXhKepU-Ofg"
+    }
+]
